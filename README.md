@@ -1,9 +1,9 @@
 ## Olá, eu sou Luis Claudio 👋
 
 ## Sobre mim
-• 👨‍💻 Estudante de Sistemas de Informação na Unifacisa;
-• 🚀 Entusiasta do desenvolvimento de software e inovação tecnológica;
-• 📖 Explorando novas tecnologias e atualmente aprimorando habilidades em frontend.
+• 👨‍💻 Estudante de Sistemas de Informação na Unifacisa
+• 🚀 Entusiasta do desenvolvimento de software e inovação tecnológica
+• 📖 Explorando novas tecnologias e atualmente aprimorando habilidades em frontend
   
 ## 🔨 Habilidades
 
