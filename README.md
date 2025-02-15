@@ -1,9 +1,9 @@
 ## Olá, eu sou Luis Claudio 👋
 
 ## Sobre mim
-• 💻 Apaixonado por tecnologia  
-• 👨‍💻 Estudando Sistemas de Informação na Unifacisa  
-• 📚 Atualmente aprendendo JavaScript e aprofundando conhecimentos em bancos de dados 
+• 👨‍💻 Estudante de Sistemas de Informação na Unifacisa;
+• 🚀 Entusiasta do desenvolvimento de software e inovação tecnológica;
+• 📖 Explorando novas tecnologias e atualmente aprimorando habilidades em frontend.
   
 ## 🔨 Habilidades
 
