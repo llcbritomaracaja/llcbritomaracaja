@@ -1,16 +1,29 @@
-## Hi there 👋
+## Olá, eu sou Luis Claudio 👋
 
-<!--
-**llcbritomaracaja/llcbritomaracaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+• 💻 Apaixonado por tecnologia  
+• 👨‍💻 Estudando Sistemas de Informação na Unifacisa  
+• 📚 Atualmente aprendendo JavaScript e aprofundando conhecimentos em bancos de dados 
+  
+## 🔨 Habilidades
 
-Here are some ideas to get you started:
+<div style="display: inline_block">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt=python src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div><br/>
+  
+</div><br/>
+
+## 🗃 Banco de dados
+
+<div style="display: inline_block">
+  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
+
+## 🌐 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luis-claudio-brito-maracajá-907425340)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:llcbritomaracaja@outlook.com)
