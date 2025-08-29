@@ -3,7 +3,6 @@
 ## Sobre mim  
 - 👨‍💻 Estudante de Sistemas de Informação na UNIFACISA  
 - 🚀 Entusiasta do desenvolvimento de software e inovação tecnológica  
-- 📖 Explorando novas tecnologias e atualmente aprimorando habilidades em frontend  
 
 ## 🔨 Habilidades  
 
