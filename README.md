@@ -1,7 +1,7 @@
 ## Olá, eu sou Luis Claudio 👋  
 
 ## Sobre mim  
-- 👨‍💻 Estudante de Sistemas de Informação na UNIFACISA  
+- 👨‍💻 Estudante de Engenharia Elétrica na UFCG  
 - 🚀 Entusiasta do desenvolvimento de software e inovação tecnológica  
 
 ## 🔨 Habilidades  
