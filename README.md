@@ -1,8 +1,7 @@
 ## Olá, eu sou Luis Claudio 👋  
 
 ## Sobre mim  
-- 👨‍💻 Estudante de Engenharia Elétrica na UFCG  
-- 🚀 Entusiasta do desenvolvimento de software e inovação tecnológica  
+- Graduando em Engenharia Elétrica na UFCG 
 
 ## 🔨 Habilidades  
 
